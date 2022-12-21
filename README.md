@@ -13,8 +13,10 @@ After a P.h.D and several years as a research ingeneer in geochemistry, I decide
 # RECENT PROJECTS
 ### Marver API
 
-* repository frontend:https://github.com/Nixoals/frontend-marvel-public
-* repository https://github.com/Nixoals/backend-marvel
+* Repository frontend: https://github.com/Nixoals/frontend-marvel-public
+* Repository backend: https://github.com/Nixoals/backend-marvel
+* see it in [live](https://nixoals-marvel-react.netlify.app/)
+
 
 <div>
   <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" height=40>
@@ -25,12 +27,14 @@ After a P.h.D and several years as a research ingeneer in geochemistry, I decide
 
 
 <div align="center">
-  <img alt="my room in 3d" src="" width=900>
+  <img alt="marvelgiv" src="https://res.cloudinary.com/dbrbme99g/image/upload/v1671483965/marvel/screenshots/1_xlx25n.png" width=900>
 </div>
+
+---
 
 ### My room in 3D
 * see it in [live](https://nicolasgodeau.fr/)
-* Repo frontend : https://github.com/Nixoals/NicolasGodeau-CV
+* Repository frontend : https://github.com/Nixoals/NicolasGodeau-CV
 
 
 - ThreeJS <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" width=40>
