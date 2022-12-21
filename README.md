@@ -13,13 +13,13 @@ After a P.h.D and several years as a research ingeneer in geochemistry, I decide
 # RECENT PROJECTS
 
 ### My room in 3D
-This is my first big project 
+* see it in [live](https://nicolasgodeau.fr/)
+* Repo frontend : https://github.com/Nixoals/NicolasGodeau-CV
 
-<div>
-  <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" width=40>
-   <img alt="logo javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width=40>
-</div>
+
+- ThreeJS <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" width=40>
 
 <div align="center">
-  <img alt="my room in 3d" src="" width=900>
+  <img alt="my room in 3d" src="./myroom.gif" width=900>
 </div>
+
