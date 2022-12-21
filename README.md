@@ -11,6 +11,22 @@ After a P.h.D and several years as a research ingeneer in geochemistry, I decide
 :email: Feel free to contact me nicolasgodeau1@gmail.com 
 
 # RECENT PROJECTS
+### Marver API
+
+* repository frontend:https://github.com/Nixoals/frontend-marvel-public
+* repository https://github.com/Nixoals/backend-marvel
+
+<div>
+  <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" height=40>
+  <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height=40>
+  <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/527px-MongoDB-Logo.svg.png?20190421175613" height=40>
+  
+</div>
+
+
+<div align="center">
+  <img alt="my room in 3d" src="" width=900>
+</div>
 
 ### My room in 3D
 * see it in [live](https://nicolasgodeau.fr/)
