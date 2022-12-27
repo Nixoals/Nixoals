@@ -36,8 +36,11 @@ After a P.h.D and several years as a research ingeneer in geochemistry, I decide
 * see it in [live](https://nicolasgodeau.fr/)
 * Repository frontend : https://github.com/Nixoals/NicolasGodeau-CV
 
-
-- ThreeJS <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" width=40>
+<div>
+  <img alt="logo threeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" height=40>
+  <img alt="logo GSAP" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" height=40>
+  
+</div>
 
 <div align="center">
   <img alt="my room in 3d" src="./myroom.gif" width=900>
