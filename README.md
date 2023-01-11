@@ -8,7 +8,8 @@
 
 After a P.h.D and several years as a research ingeneer in geochemistry, I decided to deep dive into this new digital era to become a web developer. To do so, I started to learn python, javascript, HTML, CSS by myself. I then embarked for a 10 weeks coding bootcamp at LE REACTEUR to strengthen my coding skills. I am now open to work and ready for challenging projects.
 
-:email: Feel free to contact me nicolasgodeau1@gmail.com 
+:email: Feel free to contact me nicolasgodeau1@gmail.com
+:globe_with_meridians: Visit my [web page](https://nicolas-godeau-dev.netlify.app/) 
 
 # RECENT PROJECTS
 
