@@ -57,7 +57,7 @@ MVP of a quality vintage clothing app made with React Native.
 ---
 
 ### My personnal page in 3D
-* see it in [live](https://nicolasgodeau.fr/)
+* see it in [live](https://my-room-model.vercel.app/)
 * Repository frontend : https://github.com/Nixoals/NicolasGodeau-CV
 
 <div>
