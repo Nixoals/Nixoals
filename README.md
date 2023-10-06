@@ -32,7 +32,7 @@ MVP of a quality vintage clothing app made with React Native.
 * MongoDB database
 
 <div align="center">
-  <img alt="motto app" src="https://res.cloudinary.com/dbrbme99g/image/upload/v1672838548/github/landing%20page/motto_image_github_Plan_de_travail_1_jwzf0h.png" width=900>
+  <img alt="motto app" src="https://res.cloudinary.com/dbrbme99g/image/upload/v1672838548/github/landing%20page/motto_image_github_Plan_de_travail_1_jwzf0h.png" width=500>
 </div>
 
 
